@@ -1,0 +1,24 @@
+---
+title: "Left on Base"
+author: "Kris Kindle"
+date: "4/18/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Left on Base
+
+Baseball is obsessed with the idea of clutch, from the pitcher that escapes a bases loaded jam to the walk-off hit. What we all want to know is if there certain players that perform better in high value situations? Where we often get caught in trying to determine this is in how to quantify the "clutchness" of players. 
+
+The objective of every team is to outscore their opponents. Yes, we realize that this may seem demeaning to the reader, but hear us out. The likelihood of scoring during any given at-bat goes up when there are runners on base. This makes having a runner on during your at-bat a high value situation. What we want to look at is if we can see any "clutchness" effect that we can't attribute due solely to random chance.
+
+
+
+```{r cars}
+summary(cars)
+```
+
+
