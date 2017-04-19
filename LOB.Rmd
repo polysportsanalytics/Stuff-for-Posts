@@ -17,8 +17,3 @@ The objective of every team is to outscore their opponents. Yes, we realize that
 
 
 
-```{r cars}
-summary(cars)
-```
-
-
